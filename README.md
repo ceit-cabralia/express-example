@@ -1,4 +1,4 @@
-##Aplicação de exmplo utilizando [Node.js](http://nodejs.org) e [Express](http://expressjs.com)
+##Aplicação de exemplo utilizando [Node.js](http://nodejs.org) e [Express](http://expressjs.com)
 
 Exemplo para a aula de introdução a Node.js do Instituto Mauá.
 
